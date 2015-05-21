@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tuprolog">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Prolog/2p-2.7.2/bin/tuprolog.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
